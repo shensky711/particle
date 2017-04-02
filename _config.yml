@@ -1,20 +1,25 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: HansChen的主页
+user_title: ~ Bug Writer ~
+description: 个人主页
+# baseurl: "/blog" # the subpath of your site, e.g. /blog
+# url: "http://www.hanschen.site" # the base hostname & protocol for your site e.g. http://www.hanschen.site
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: HansChen
+user_description: ~ Bug Writer ~
+
+blog: http://blog.hanschen.site
+email: shensky711@gmail.com
+github_username:  shensky711
+gplus_username:  114746819615461693138
 
 # Google-analytics
 google-analytics:
   id: ""
+  
+# Baidu-analytics
+baidu-analytics:
+  id: "f6094a3315c4094c74835f2874f1b58d"
 
 exclude: ['package.json', 'src' , 'node_modules']
